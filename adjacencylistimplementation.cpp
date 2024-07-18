@@ -31,7 +31,7 @@ class graph{
 
 int main(){
     int n;
-    cout<<"enter the number of edges";
+    cout<<"enter the number of Nodes";
     cin>>n;
     int m;
     cout<<"enter the number of edges";
